@@ -54,6 +54,7 @@ Knave in alphabetical order.
 3.3. Sample outputs. Here are a few tests together with the expected outputs. The outputs of your program
 should be exactly in accordance with the following outputs. Outputs of your program will be matched against
 expected outputs line for line.
+
 $ cat test_1.txt
 I have just seen Sirs Sanjay and Eleonore!
 "I am a Knave," whispered Sir Eleonore.
