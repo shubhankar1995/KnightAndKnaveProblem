@@ -51,9 +51,7 @@ Your program should:
  output the solution in case a unique solution exists, with all Sirs being qualified as either Knight or
 Knave in alphabetical order.
 
-3.3. Sample outputs. Here are a few tests together with the expected outputs. The outputs of your program
-should be exactly in accordance with the following outputs. Outputs of your program will be matched against
-expected outputs line for line.
+3.3. Sample outputs.
 
 $ cat test_1.txt
 I have just seen Sirs Sanjay and Eleonore!
